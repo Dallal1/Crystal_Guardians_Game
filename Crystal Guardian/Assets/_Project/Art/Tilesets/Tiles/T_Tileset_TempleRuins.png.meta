@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 7cc17ed7d0a054b44b34aa5ff38a0a99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2301669129796114322
+    second: Cracked stone temple floor at night, weathered gray flagstones with moss
+      creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+      and dead grass patches, atmospheric dark fantasy, detailed pixe_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297daf7f0eb21ff10800000000000000
+      internalID: 2301669129796114322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3f280b09131a84380a7e9fe5c340c3
+      internalID: 509334987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3634a556d5b6640b4495ed34834188
+      internalID: -865097107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003656c47a736944490190efca31724e
+      internalID: 661927311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e901af5c4650b9b479647e52b2384c90
+      internalID: -1106213598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ef201f15260db439b52b807f0e8f10
+      internalID: 20681511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033db71979e790448a1304154a01316c
+      internalID: -46613677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8696904944cdcd42802d79187b94c51
+      internalID: 25438865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb727d376faac074182036ba7616ea70
+      internalID: -410176326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff607caa6a1415479285698fae3b2fc
+      internalID: -1374125521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2368127f3842d54e946ef05f6db6f52
+      internalID: -128817819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b777dbc44de0bc4b969e50ee9fbbd82
+      internalID: 615394592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23b48481935a6a4587438f89d3515a8
+      internalID: -1806804390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68d313d01b43944e8f88e6904222bec
+      internalID: -487411712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ffdb2101bb7d444aae12e329cfc059
+      internalID: 1635731342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked stone temple floor at night, weathered gray flagstones with moss
+        creeping in the cracks, subtle blue moonlight tint, small scattered leaves
+        and dead grass patches, atmospheric dark fantasy, detailed pixe_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4ca4e1717b7c8479856451692cd004
+      internalID: -1357923474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a3500c689ebf6e4291d7a0a94b76b4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_0: 2301669129796114322
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_1: 509334987
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_10: -128817819
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_11: 615394592
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_12: -1806804390
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_13: -487411712
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_14: 1635731342
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_15: -1357923474
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_2: -865097107
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_3: 661927311
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_4: -1106213598
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_5: 20681511
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_6: -46613677
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_7: 25438865
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_8: -410176326
+      Cracked stone temple floor at night, weathered gray flagstones with moss creeping in the cracks, subtle blue moonlight tint, small scattered leaves and dead grass patches, atmospheric dark fantasy, detailed pixe_9: -1374125521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
