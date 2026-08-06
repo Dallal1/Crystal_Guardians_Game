@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 993b7edbf83cd8044b096f74d8f81e43
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: T_Tileset_TempleRuins_LDtk_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 256
+      width: 64
+      height: 64
+    spriteID: f45aeece1985b264c83eaf080e90b7c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 256
+      width: 64
+      height: 64
+    spriteID: 5e2962c11197a694fbadaf9af079afe4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 256
+      width: 64
+      height: 64
+    spriteID: 55a1d88cb5a620948b5e8ab87ea286fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 256
+      width: 64
+      height: 64
+    spriteID: 2b43404f631da7d458ce5c99465a3024
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 64
+      height: 64
+    spriteID: a079f97c19196e0448fdc9f44eae0faf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 64
+      height: 64
+    spriteID: fa71ca598f8177c42bfbcd34e63867a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 64
+      height: 64
+    spriteID: bb21d6c2feb8a9b489738fb232a1d6e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 64
+      height: 64
+    spriteID: 2568be5115d64104a9239e21482a2546
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 64
+      height: 64
+    spriteID: 9a3e0a053ecdbb6499098be86fe2a059
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 64
+      height: 64
+    spriteID: dc9c03691dac4d244bfd443fcb9de782
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 64
+      height: 64
+    spriteID: 18c0eaf180e13a146982e6418ac46c1b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 64
+      height: 64
+    spriteID: 3edf97bda8dc0ab4bb10c070b8903854
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 64
+      height: 64
+    spriteID: 8b089ae527a07df4ca4f85aabaf19f4c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 64
+      height: 64
+    spriteID: 909f43c1fccfb07418c9232e36a79043
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 64
+      height: 64
+    spriteID: 6f437248ed2cad141ba9322e883f2735
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 64
+      height: 64
+    spriteID: 4b95b5b230b50d04eb9d2196c3e8de1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 64
+      height: 64
+    spriteID: 45b5dd32db11fb5408a0105a7bf61ee4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 64
+      height: 64
+    spriteID: 34529b8c10211404889b08a8f5e5e57e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 64
+      height: 64
+    spriteID: 4d4ef4a209e9ef84dbf604e42fbfd1e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: T_Tileset_TempleRuins_LDtk_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 64
+      height: 64
+    spriteID: 129516b24e378f24db1e98a17d7006b6
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}
