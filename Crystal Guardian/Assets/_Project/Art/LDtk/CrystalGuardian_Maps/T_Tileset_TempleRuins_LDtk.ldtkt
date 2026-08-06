@@ -1,0 +1,33 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 5,
+    "__cWid": 4,
+    "cachedPixelData": {
+      "opaqueTiles": "11111111111111111111",
+      "averageColors": "f566f566f555f556f555f555f566f566f555f566f566f566f455f555f455f555f566f566f566f555"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "T_Tileset_TempleRuins_LDtk",
+    "padding": 0,
+    "pxHei": 320,
+    "pxWid": 256,
+    "relPath": "T_Tileset_TempleRuins_LDtk.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 64,
+    "uid": 2
+  }
+}
